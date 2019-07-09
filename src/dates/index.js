@@ -1,3 +1,5 @@
+const moment = require('moment')
+
 // import moment here; use this package in each function
 
 const today = () => {
